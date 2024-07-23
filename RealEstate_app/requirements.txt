@@ -1,0 +1,9 @@
+firecrawl-py
+pandas
+ollama
+python-dotenv
+openpyxl
+langchain
+langchain-community
+llama-index-llms-groq 
+streamlit
